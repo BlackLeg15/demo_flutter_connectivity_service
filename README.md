@@ -2,7 +2,7 @@
 
 Demo project for a connectivity service following the D (DIP) word from SOLID.
 
-## Storage Implementations
+## Service implementations
 ### connectivity
 Link: https://pub.dev/packages/connectivity
 #### Steps to install it in your own projects:
